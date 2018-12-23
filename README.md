@@ -1,4 +1,6 @@
 # TDeskDroid - Telegram Desktop to Android theme converter
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMrYadro%2FTDeskDroid.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMrYadro%2FTDeskDroid?ref=badge_shield)
+
 
 ## Dependencies
 - python 3
@@ -26,3 +28,7 @@
 - Image has to be converted to `jpeg`, and put in binary mode into file between tags PWS and WPE
 - `.atthemesrc` is sort of source file made by me so you can check it in more human friendly way on how conversion goes
 - You have to use all the colors in `.tdesktop-theme` file
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMrYadro%2FTDeskDroid.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMrYadro%2FTDeskDroid?ref=badge_large)
